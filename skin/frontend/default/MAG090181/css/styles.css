@@ -31,7 +31,7 @@ body{
     background:#FFFFFF;
     color: #282828;
     font-family: 'Tinos','Raleway',Arial,Helvetica,sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: normal;
     line-height: 24px;
 	text-align:left;
@@ -46,12 +46,12 @@ a:hover       { text-decoration:none; color:#686868; }
 /* Headings */
 h1,h2,h3,
 h4,h5,h6      { margin:0 0 5px; line-height:1.35; color:#444; }
-h1            { font-size:22px; font-weight:normal; }
-h2            { font-size:20px; font-weight:normal; margin-bottom:15px; }
-h3            { font-size:18px; font-weight:bold; }
-h4            { font-size:16px; font-weight:bold; }
-h5            { font-size:14px; font-weight:bold; }
-h6            { font-size:12px; font-weight:bold; }
+h1            { font-size:21px; font-weight:normal; }
+h2            { font-size:19px; font-weight:normal; margin-bottom:15px; }
+h3            { font-size:17px; font-weight:bold; }
+h4            { font-size:15px; font-weight:bold; }
+h5            { font-size:13px; font-weight:bold; }
+h6            { font-size:11px; font-weight:bold; }
 
 /* Forms */
 form          { display:inline; list-style:none; }
@@ -854,7 +854,7 @@ text-align:center;
  
 #nav a , .nav-responsive span  {  }
 #nav a , .nav-responsive span , div.menu a, div.megnor-advanced-menu-popup a { 
- padding:8px 10px; color:#222222; font-size:13px;  text-decoration: none; margin:0; font-weight:bold;font-family:'Tinos','Raleway',Arial,Helvetica,sans-serif; border-top:1px solid transparent;
+ padding:8px 10px; color:#222222; font-size:14px;  text-decoration: none; margin:0; font-weight:bold;font-family:'Tinos','Raleway',Arial,Helvetica,sans-serif; border-top:1px solid transparent;
 }
 #nav li > a{   padding:19px 0 19px; margin:0px 0px 0;text-transform:uppercase; }
 #nav li > a:hover{   }
