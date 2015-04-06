@@ -24,12 +24,13 @@
  */
 
 /* Reset ================================================================================= */
+@import url(http://fonts.googleapis.com/css?family=Tinos:400,700&subset=latin,vietnamese);
 * { margin:0; padding:0; }
 
 body{ 
     background:#FFFFFF;
     color: #282828;
-    font-family: 'Raleway',Arial,Helvetica,sans-serif;
+    font-family: 'Tinos','Raleway',Arial,Helvetica,sans-serif;
     font-size: 14px;
     font-weight: normal;
     line-height: 24px;
@@ -853,7 +854,7 @@ text-align:center;
  
 #nav a , .nav-responsive span  {  }
 #nav a , .nav-responsive span , div.menu a, div.megnor-advanced-menu-popup a { 
- padding:8px 10px; color:#222222; font-size:13px;  text-decoration: none; margin:0; font-weight:bold;font-family:'Raleway',Arial,Helvetica,sans-serif; border-top:1px solid transparent;
+ padding:8px 10px; color:#222222; font-size:13px;  text-decoration: none; margin:0; font-weight:bold;font-family:'Tinos','Raleway',Arial,Helvetica,sans-serif; border-top:1px solid transparent;
 }
 #nav li > a{   padding:19px 0 19px; margin:0px 0px 0;text-transform:uppercase; }
 #nav li > a:hover{   }
@@ -1071,7 +1072,7 @@ background: url("../images/megnor/catarrow.png") no-repeat scroll 3px -17px tran
 .block-cart .actions { }
 .block-cart .actions .paypal-logo { float:left; width:100%; margin:3px 0 0; text-align:right; }
 .block-cart .actions .paypal-logo .paypal-or { clear:both; display:block; padding:0 55px 8px 0; }
-.block.block-layered-nav .price{color:#282828; font-weight:normal; font-family:'Raleway',Arial,Helvetica,sans-serif;}
+.block.block-layered-nav .price{color:#282828; font-weight:normal; font-family:'Tinos','Raleway',Arial,Helvetica,sans-serif;}
 .block.block-layered-nav .price:hover{color:#686868;}
 /* Block: Wishlist */
 .block-wishlist .block-title strong { }
