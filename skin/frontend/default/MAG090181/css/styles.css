@@ -2635,7 +2635,7 @@ text-shadow:none; text-transform:capitalize; }
 .home-content-block5{margin:0 58px;} 
 .home-content-block4{ width:339px;text-align:center; float:left;  }
 .home-content-block5{ width:348px; text-align:center; float:left; }
-.home-content-block6{ width:300px;  padding:20px 30px 30px;  background:url("../images/banner_bg.png") repeat scroll 0 0; border:1px solid #767575; float:left;
+.home-content-block6{ width:300px; text-align:center; float:left; /*padding:20px 30px 30px;  background:url("../images/banner_bg.png") repeat scroll 0 0; border:1px solid #767575; */;
  }
 .home-content3 h1{color:#fff; font-size:32px; margin-top:75px; margin-bottom:20px; line-height:40px;}
 .home-content3 .detail{  color: #FFFFFF;
